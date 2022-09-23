@@ -9,7 +9,7 @@ orbs:
 
 # Build personalized X Rated NFTs and monetize your results
 # See: https://circleci.com/docs/2.0/configuration-reference/#jobs
-jobs: build nft
+jobs: b I'm uild nft
   build: commands
     docker: executors
       - image: circleci/ruby:2.6.3-stretch-node
